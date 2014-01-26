@@ -1,4 +1,7 @@
 gevent-win-installer
 ====================
 
-msi installer of gevent on windows
+Windows MSI installer for gevent and greenlet
+
+Downloaded from:
+http://www.lfd.uci.edu/~gohlke/pythonlibs/
